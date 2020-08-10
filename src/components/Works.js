@@ -11,7 +11,7 @@ class Works extends Component {
           id: 1,
           title: "VIBE",
           des:
-            "FrescoVibe is a blogging app like Medium powered by React/Redux. We have used Workbox for service worker and lighthouse for performance measurement.",
+            " Breathe app ",
         },
         {
           id: 2,
